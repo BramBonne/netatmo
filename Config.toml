@@ -1,0 +1,7 @@
+username = ""
+password = ""
+# Create at https://dev.netatmo.com/apps/createanapp#form
+client_id = ""
+client_secret = ""
+# Find in your app
+mac_address = ""
